@@ -51,7 +51,7 @@ nav li {
   border-top: 1px solid #fff;
 }
 
-nav li: first-child{
+nav li:first-child {
     border-top: none;
 }
 
@@ -88,7 +88,7 @@ main {
 }
 
 .tel-link a {
-    color: #fff
+    color: #fff;
     text-decoration: none;
     font-size: 1.5em;
     display: block;
